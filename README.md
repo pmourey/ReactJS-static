@@ -1,2 +1,2 @@
-# pmourey.github.io
+# http://pmourey.github.io
 Static ReactJS webapp
